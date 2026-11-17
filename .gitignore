@@ -13,3 +13,6 @@ apps/backend/src/upload/*
 .DS_Store
 CLAUDE.md
 install-docker.sh
+**/node_modules/
+**/playwright-report/
+**/test-results/
